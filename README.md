@@ -1,3 +1,7 @@
+## API Para Principiantes - Laravel V10
+En este repositorio tenemos la actualización de una Api hecha en laravel 9, pero que sigue funcionando correctamente en Laravel 10. En link lo tenemos aquí:
+<p align="center"><a href="https://youtu.be/VnIKwzysvHM" target="_blank">Como crear una API en Laravel 9</a></p>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">

@@ -72,9 +72,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Cómo clonar el proyecto en un servidor Local
     
 1. <b>git clone https://github.com/adersonjara/apiParaPrincipiantesLaravelVersion10.git</b>
-2. cd apiparaprincipianteslaravelversion10
-3. Intalar las dependencias del proyecto con: composer install
+2. <b>cd apiparaprincipianteslaravelversion10</b>
+3. Intalar las dependencias del proyecto con: <b>composer install</b>
 4. Configurar el archivo .env.example y dejarlo como .env y dentro colocar todas las variables de entorno de nuestro proyecto.
 5. Creamos la base de datos para nuestro proyecto.
-6. Generar una APP_KEY que es una llave para cada proyecto de Laravel se puede generar con este comando: php artisan key:generate
-6. Generar las migraciones y ejecutar los seeders para nuestras tablas de base de datos con este comando: php artisan migrate --seed
+6. Generar una APP_KEY que es una llave para cada proyecto de Laravel se puede generar con este comando: <b>php artisan key:generate</b>
+6. Generar las migraciones y ejecutar los seeders para nuestras tablas de base de datos con este comando: <b>php artisan migrate --seed</b>

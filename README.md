@@ -71,7 +71,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Cómo clonar el proyecto en un servidor Local
     
-1. git clone https://github.com/adersonjara/apiParaPrincipiantesLaravelVersion10.git
+1. <b>git clone https://github.com/adersonjara/apiParaPrincipiantesLaravelVersion10.git</b>
 2. cd apiparaprincipianteslaravelversion10
 3. Intalar las dependencias del proyecto con: composer install
 4. Configurar el archivo .env.example y dejarlo como .env y dentro colocar todas las variables de entorno de nuestro proyecto.

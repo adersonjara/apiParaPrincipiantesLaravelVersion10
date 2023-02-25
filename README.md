@@ -73,7 +73,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
     
 1. <b>git clone https://github.com/adersonjara/apiParaPrincipiantesLaravelVersion10.git</b>
 2. <b>cd apiparaprincipianteslaravelversion10</b>
-3. Intalar las dependencias del proyecto con: <b>composer install</b>
+3. Instalar las dependencias del proyecto con: <b>composer install</b>
 4. Configurar el archivo .env.example y dejarlo como .env y dentro colocar todas las variables de entorno de nuestro proyecto.
 5. Creamos la base de datos para nuestro proyecto.
 6. Generar una APP_KEY que es una llave para cada proyecto de Laravel se puede generar con este comando: <b>php artisan key:generate</b>
